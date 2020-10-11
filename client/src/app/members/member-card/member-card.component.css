@@ -28,10 +28,10 @@
 }
 
 .card-img-wrapper:hover .member-icons {
-    bottom: o;
+    bottom: 0;
     opacity: 1;
 }
 
-.animar {
+.animate {
     transition: all 0.3s ease-in-out;
 }
