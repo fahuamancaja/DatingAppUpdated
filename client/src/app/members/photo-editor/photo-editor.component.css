@@ -1,4 +1,4 @@
-img.img-thimbnail {
+img.img-thumbnail {
     height: 100px;
     min-width: 100px !important;
     margin-bottom: 2px;
@@ -17,10 +17,10 @@ input[type=file] {
 }
 
 .img-wrapper {
-    position: relative;
+    position: relative
 }
 
-.img-text { 
-    position:absolute;
+.img-text {
+    position: absolute;
     bottom: 30%;
 }
